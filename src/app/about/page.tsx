@@ -1,6 +1,7 @@
 
 import Navbar from "@/components/Navbar";
 import '@/components/Hero.css';
+import Image from 'next/image';
 
 export default function About() {
     return (
@@ -13,7 +14,7 @@ export default function About() {
             <Navbar />
 
             <section className="min-h-screen flex flex-col items-center py-10 lg:py-20 px-5 space-y-10">
-                
+
                 {/* MEDİVERSE NEDİR? */}
                 <div className="relative max-w-5xl w-full mx-auto text-white">
                     <div className="absolute inset-0 bg-black opacity-50 rounded-lg"></div>
@@ -27,9 +28,9 @@ export default function About() {
                         </h1>
                         <div className="border-t border-gray-300 my-4"></div>
                         <p className="text-base lg:text-lg leading-relaxed mb-6 text-justify">
-                           MediVerse, tıp öğrencilerini ve sağlık alanındaki uzmanları yenilikçi bir platformda buluşturmayı amaçlayan bir bilgi paylaşım kongresidir. MediVerse, sağlığın geleceğini şekillendiren teknolojik gelişmeler, yapay zeka, nadir hastalıklar, 3D organ nakilleri ve Alzheimer gibi çeşitli konuları bir araya getiren, multidisipliner bir yaklaşımla tasarlanmış bir etkinliktir.MediVerse, tıp öğrencilerini ve sağlık alanındaki uzmanları yenilikçi bir platformda buluşturmayı amaçlayan bir bilgi paylaşım kongresidir. İlk kez Türkiye genelinde, sağlığın geleceğini şekillendiren teknolojik gelişmeler, yapay zeka, nadir hastalıklar, 3D organ nakilleri ve Alzheimer gibi çeşitli konuları bir araya getiren MediVerse, alanında lider uzmanları ve hevesli tıp öğrencilerini bir araya getirerek hem öğrenmeye hem de ılham almaya zemin hazırlıyor.
-                           <br /><br />
-                           Bu benzersiz kongrede, katılımcılar interaktif oturumlar, yenilikçi çalıştaylar ve bilimsel paneller aracılığıyla sağlık sektörünün geleceğine dair farklı bakış açıları geliştirme şansı yakalayacaklar. Ayrıca, kongrede hem klinik hem de preklinik alanda katılımcıların bilgi ve deneyimlerini artırabilecekleri çeşitli atölyeler düzenlenmektedir. MediVerse, akademik bilgi ve deneyimlerin paylaşıldığı bir platform olmanın ötesinde, tıp ve teknolojiyi buluşturan geleceğe yön veren bir topluluk yaratmayı hedefliyor.
+                            MediVerse, tıp öğrencilerini ve sağlık alanındaki uzmanları yenilikçi bir platformda buluşturmayı amaçlayan bir bilgi paylaşım kongresidir. MediVerse, sağlığın geleceğini şekillendiren teknolojik gelişmeler, yapay zeka, nadir hastalıklar, 3D organ nakilleri ve Alzheimer gibi çeşitli konuları bir araya getiren, multidisipliner bir yaklaşımla tasarlanmış bir etkinliktir.MediVerse, tıp öğrencilerini ve sağlık alanındaki uzmanları yenilikçi bir platformda buluşturmayı amaçlayan bir bilgi paylaşım kongresidir. İlk kez Türkiye genelinde, sağlığın geleceğini şekillendiren teknolojik gelişmeler, yapay zeka, nadir hastalıklar, 3D organ nakilleri ve Alzheimer gibi çeşitli konuları bir araya getiren MediVerse, alanında lider uzmanları ve hevesli tıp öğrencilerini bir araya getirerek hem öğrenmeye hem de ılham almaya zemin hazırlıyor.
+                            <br /><br />
+                            Bu benzersiz kongrede, katılımcılar interaktif oturumlar, yenilikçi çalıştaylar ve bilimsel paneller aracılığıyla sağlık sektörünün geleceğine dair farklı bakış açıları geliştirme şansı yakalayacaklar. Ayrıca, kongrede hem klinik hem de preklinik alanda katılımcıların bilgi ve deneyimlerini artırabilecekleri çeşitli atölyeler düzenlenmektedir. MediVerse, akademik bilgi ve deneyimlerin paylaşıldığı bir platform olmanın ötesinde, tıp ve teknolojiyi buluşturan geleceğe yön veren bir topluluk yaratmayı hedefliyor.
                         </p>
                     </div>
                 </div>
@@ -47,7 +48,7 @@ export default function About() {
                         </h1>
                         <div className="border-t border-gray-300 my-4"></div>
                         <p className="text-base lg:text-lg leading-relaxed mb-6 text-justify">
-                            İzmir Ekonomi Tıp Kulübü (İETK), İzmir Ekonomi Üniversitesi bünyesinde, tıp öğrencilerinin akademik ve kişisel gelişimlerini desteklemek amacıyla faaliyet gösteren bir öğrenci topluluğudur. İETK, İzmir Ekonomi Üniversitesi'ni temsilen iki güçlü topluluk olan Tıp ve ECOEMSA'nın birleşimini içermektedir.
+                            İzmir Ekonomi Tıp Kulübü (İETK), İzmir Ekonomi Üniversitesi bünyesinde, tıp öğrencilerinin akademik ve kişisel gelişimlerini desteklemek amacıyla faaliyet gösteren bir öğrenci topluluğudur. İETK, İzmir Ekonomi Üniversitesi&apos;ni temsilen iki güçlü topluluk olan Tıp ve ECOEMSA&apos;nın birleşimini içermektedir.
                             <br /><br />
                             İzmir Ekonomi Tıp Kulübü, tıp öğrencilerinin akademik ve kişisel gelişimlerini desteklemek amacıyla çeşitli etkinlikler düzenleyen, yenilikçi ve dinamik bir öğrenci topluluğudur.
                             <br /><br />
@@ -59,13 +60,12 @@ export default function About() {
                 </div>
 
                 {/* LOGOLAR */}
-                <div className="flex space-x-4">
-                    <img src="echoBot.svg" alt="SVG 1" className="w-36 h-36"/>
-                    <img src="ecoEmsa.svg" alt="SVG 2" className="w-36 h-36"/>
-                    <img src="medClub.svg" alt="SVG 3" className="w-36 h-36"/>
-                    <img src="medStd.svg" alt="SVG 4" className="w-36 h-36"/>
+                <div className="flex flex-wrap">
+                    <Image src="/images/logo/echoBot.svg" alt="SVG 1" width={144} height={144} />
+                    <Image src="/images/logo/ecoEmsa.svg" alt="SVG 2" width={144} height={144} />
+                    <Image src="/images/logo/medClub.svg" alt="SVG 3" width={144} height={144} />
+                    <Image src="/images/logo/medStd.svg" alt="SVG 4" width={144} height={144} />
                 </div>
-                
             </section>
         </main>
     );
