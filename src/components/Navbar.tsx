@@ -7,7 +7,12 @@ export default function Navbar() {
             <div className="drawer-content flex flex-col">
                 {/* Navbar */}
                 <div className="navbar bg-base-300 w-full">
-                    <div className="mx-2 flex-1 px-2 font-bold text-primary">MEDIVERSE</div>
+                    <div className="mx-2 flex-1 px-2 font-bold text-primary">
+                        <Link href="/">
+                            MEDIVERSE
+                        </Link>
+                    </div>
+
                     <div className="hidden flex-none xl:block">
                         <ul className="menu menu-horizontal text-xs text-primary font-bold">
                             {/* Navbar menu content here */}
@@ -49,7 +54,11 @@ export default function Navbar() {
                     <li><Link href="/#poster" className="hover:text-secondary">POSTER SUNUMLARI</Link></li>
                     <li><Link href="/#sponsors" className="hover:text-secondary">SPONSORLARIMIZ</Link></li>
                 </ul>
-                <div className="p-4 font-bold mt-auto text-primary">MEDIVERSE</div>
+                <div className="p-4 font-bold mt-auto text-primary">
+                    <Link href="/">
+                        MEDIVERSE
+                    </Link>
+                </div>
             </div>
         </div>
     )
