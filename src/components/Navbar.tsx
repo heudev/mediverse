@@ -17,7 +17,7 @@ export default function Navbar() {
                         <ul className="menu menu-horizontal text-xs text-primary font-bold">
                             {/* Navbar menu content here */}
                             <li><Link href="/about">MEDIVERSE NEDİR?</Link></li>
-                            <li><Link href="/#team" className="hover:text-secondary">ORGANİZASYON KOMİTESİ</Link></li>
+                            <li><Link href="/team" className="hover:text-secondary">ORGANİZASYON KOMİTESİ</Link></li>
                             <li><Link href="/#program" className="hover:text-secondary">PROGRAM AKIŞI</Link></li>
                             <li><Link href="/#speakers" className="hover:text-secondary">KONUŞMACILAR HAKKINDA</Link></li>
                             <li><Link href="/#workshops" className="hover:text-secondary">ATÖLYELERİMİZ</Link></li>
@@ -47,7 +47,7 @@ export default function Navbar() {
                 <ul className="menu bg-base-200 min-h-full w-80 p-4 text-primary font-bold">
                     {/* Sidebar content here */}
                     <li><Link href="/about">MEDIVERSE NEDİR?</Link></li>
-                    <li><Link href="/#team" className="hover:text-secondary">ORGANİZASYON KOMİTESİ</Link></li>
+                    <li><Link href="/team" className="hover:text-secondary">ORGANİZASYON KOMİTESİ</Link></li>
                     <li><Link href="/#program" className="hover:text-secondary">PROGRAM AKIŞI</Link></li>
                     <li><Link href="/#speakers" className="hover:text-secondary">KONUŞMACILAR HAKKINDA</Link></li>
                     <li><Link href="/#workshops" className="hover:text-secondary">ATÖLYELERİMİZ</Link></li>
