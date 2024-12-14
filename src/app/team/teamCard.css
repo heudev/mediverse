@@ -1,9 +1,0 @@
-.hexagon {
-    position: relative;
-    width: calc(100% - 20px);
-    height: calc(100% - 20px);
-    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
-}
-.front-face {
-    z-index: 1;
-}

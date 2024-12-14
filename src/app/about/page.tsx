@@ -1,6 +1,4 @@
 
-import Navbar from "@/components/Navbar";
-import '@/components/Hero.css';
 import Image from 'next/image';
 
 export default function About() {
@@ -10,8 +8,6 @@ export default function About() {
             <div className="absolute inset-0 z-0">
                 <div className="animation-bg"></div>
             </div>
-
-            <Navbar />
 
             <section className="min-h-screen flex flex-col items-center py-10 lg:py-20 px-5 space-y-10">
 
