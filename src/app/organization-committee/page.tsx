@@ -11,82 +11,82 @@ const committees: Committee[] = [
     {
         name: " Organizasyon Komitesi Yönetim Kurulu",
         members: [
-            { name: "Alara Rodoplu", photoUrl: "/images/organization-committee/alara_rodoplu.jpeg" },
-            { name: "Aysu Buse ZAMANDAR ", photoUrl: "/images/organization-committee/useravatar.png" },
-            { name: "Mine Özgün Barış", photoUrl: "/images/organization-committee/mine_ozgun_baris.jpeg" },
-            { name: "Şevval Kıvrak", photoUrl: "/images/organization-committee/alara_rodoplu.jpeg" },
+            { name: "Alara Rodoplu" ,  photoUrl: "/images/organization-committee/alara_rodoplu.jpeg" },
+            { name: "Aysu Buse Zamandar" ,  photoUrl: "/images/logo/echoBot.svg" },
+            { name: "EchoBot" ,  photoUrl: "/images/logo/echoBot.svg" },
+            { name: "Mine Özgün Barış" ,  photoUrl: "/images/organization-committee/mine_ozgun_baris.jpeg" },
+            { name: "Ceren Ayık" ,  photoUrl: "/images/organization-committee/ceren_ayik.jpeg" },
+            { name: "Duru Tunca" ,  photoUrl: "/images/organization-committee/duru_tunca.jpg" },
         ],
     },
     {
         name: "Katılımcılardan Sorumlu Organizasyon Komitesi Üyeleri",
         members: [
-            { name: "Hande Aşçı", photoUrl: "/images/organization-committee/alara_rodoplu.jpeg" },
-            { name: "Aslı Ela Akkaplan", photoUrl: "/images/organization-committee/alara_rodoplu.jpeg" },
-            { name: "İlayda Özbebit", photoUrl: "/images/organization-committee/alara_rodoplu.jpeg" },
+            { name: "Meltem Yalçın" ,  photoUrl: "/images/organization-committee/meltem_yalcin.jpeg" },
+            { name: "Ceren Sertkaya" ,  photoUrl: "/images/organization-committee/ceren_sertkaya.jpeg" },
+            { name: "Atena Pashapourkhoei Lorp" ,  photoUrl: "/images/organization-committee/atena_pashapourkhoei.jpeg" },
+            { name: "Mahshad Shahmohammadi" ,  photoUrl: "/images/organization-committee/mahshad_shahmohammadi.jpeg" },
+            { name: "Mohaddeseh Abeshtani" ,  photoUrl: "/images/organization-committee/mohaddeseh_abeshtani.jpeg" },
         ],
     },
     {
         name: "Konuşmacılardan Sorumlu Organizasyon Komitesi Üyeleri",
         members: [
-            { name: "Hande Aşçı", photoUrl: "/images/organization-committee/alara_rodoplu.jpeg" },
-            { name: "Aslı Ela Akkaplan", photoUrl: "/images/organization-committee/alara_rodoplu.jpeg" },
-            { name: "İlayda Özbebit", photoUrl: "/images/organization-committee/alara_rodoplu.jpeg" },
+            { name: "İrem Özdemir" ,  photoUrl: "/images/organization-committee/irem_ozdemir.jpeg" },
+            { name: "Sıla Başdaş" ,  photoUrl: "/images/organization-committee/sila_basdas.jpeg" },
+            { name: "Şeva Alişer" ,  photoUrl: "/images/organization-committee/seva_aliser.jpeg" },
+            { name: "Şevval Kıvrak" , photoUrl: "/images/organization-committee/sevval_kivrak.jpeg" },
         ],
     },
     {
         name: "Basın ve Tasarım Organizasyon Komitesi Üyeleri",
         members: [
-            { name: "Hande Aşçı", photoUrl: "/images/organization-committee/alara_rodoplu.jpeg" },
-            { name: "Aslı Ela Akkaplan", photoUrl: "/images/organization-committee/alara_rodoplu.jpeg" },
-            { name: "İlayda Özbebit", photoUrl: "/images/organization-committee/alara_rodoplu.jpeg" },
+            { name: "Hande Aşıcı" ,  photoUrl: "/images/organization-committee/hande_asici.jpg" },
+            { name: "Aslı Ela Akkaplan" ,  photoUrl: "/images/organization-committee/asli_ela_akkaplan.jpg" },
+            { name: "İlayda Özbebit" ,  photoUrl: "/images/organization-committee/ilayda_ozbebit.jpeg" },
         ],
     },
     {
         name: "Atölyelerden Sorumlu Organizasyon Komitesi Üyeleri",
         members: [
-            { name: "Hande Aşçı", photoUrl: "/images/organization-committee/alara_rodoplu.jpeg" },
-            { name: "Aslı Ela Akkaplan", photoUrl: "/images/organization-committee/alara_rodoplu.jpeg" },
-            { name: "İlayda Özbebit", photoUrl: "/images/organization-committee/alara_rodoplu.jpeg" },
+            { name: "Berfin Bahar Türkdoğan" ,  photoUrl: "/images/organization-committee/berfin_bahar_turkdogan.jpg" },
+            { name: "Övünç Güney" ,  photoUrl: "/images/organization-committee/ovunc_guney.jpeg" },
+            { name: "Rana Omar" ,  photoUrl: "/images/organization-committee/rana_omar.jpeg" },
         ],
     },
     {
         name: "Oturum ve Salon Organizasyon Komitesi Üyeleri",
         members: [
-            { name: "Hande Aşçı", photoUrl: "/images/organization-committee/alara_rodoplu.jpeg" },
-            { name: "Aslı Ela Akkaplan", photoUrl: "/images/organization-committee/alara_rodoplu.jpeg" },
-            { name: "İlayda Özbebit", photoUrl: "/images/organization-committee/alara_rodoplu.jpeg" },
+            { name: "Iraz Çelikbaş" ,  photoUrl: "/images/organization-committee/iraz_celikbas.jpeg" },
+            { name: "Bağdat Goncasu Kobak" ,  photoUrl: "/images/organization-committee/bagdat_goncasu_kobak.jpg" },
         ],
     },
     {
         name: "Mali İşler ve Sponsorluk Organizasyon Komitesi Üyeleri",
         members: [
-            { name: "Hande Aşçı", photoUrl: "/images/organization-committee/alara_rodoplu.jpeg" },
-            { name: "Aslı Ela Akkaplan", photoUrl: "/images/organization-committee/alara_rodoplu.jpeg" },
-            { name: "İlayda Özbebit", photoUrl: "/images/organization-committee/alara_rodoplu.jpeg" },
+            { name: "Çağın Olgun" ,  photoUrl: "/images/organization-committee/cagin_olgun.jpeg" },
+            { name: "Arda Can Akyüz" ,  photoUrl: "/images/organization-committee/arda_can_akyuz.jpeg" },
         ],
     },
     {
         name: "Poster Sunumlarından Sorumlu Organizasyon Komitesi Üyeleri",
         members: [
-            { name: "Hande Aşçı", photoUrl: "/images/organization-committee/alara_rodoplu.jpeg" },
-            { name: "Aslı Ela Akkaplan", photoUrl: "/images/organization-committee/alara_rodoplu.jpeg" },
-            { name: "İlayda Özbebit", photoUrl: "/images/organization-committee/alara_rodoplu.jpeg" },
+            { name: "Alara Rodoplu" ,  photoUrl: "/images/organization-committee/alara_rodoplu.jpeg" },
+            { name: "Ceren Ayık" ,  photoUrl: "/images/organization-committee/ceren_ayik.jpeg" },
+            { name: "Duru Tunca" ,  photoUrl: "/images/organization-committee/duru_tunca.jpg" },
         ],
     },
     {
         name: "Websitesi",
         members: [
-            { name: "Hande Aşçı", photoUrl: "/images/organization-committee/alara_rodoplu.jpeg" },
-            { name: "Aslı Ela Akkaplan", photoUrl: "/images/organization-committee/alara_rodoplu.jpeg" },
-            { name: "İlayda Özbebit", photoUrl: "/images/organization-committee/alara_rodoplu.jpeg" },
+            { name: "Enes Uysal" ,  photoUrl: "/images/organization-committee/enes_uysal.jpeg" },
+            { name: "Sezen Çetinkaya" ,  photoUrl: "/images/organization-committee/sezen_cetinkaya.jpg" },
         ],
     },
     {
         name: "Sosyal Etkinlikten Sorumlu Organizasyon Komitesi Üyeleri",
         members: [
-            { name: "Hande Aşçı", photoUrl: "/images/organization-committee/alara_rodoplu.jpeg" },
-            { name: "Aslı Ela Akkaplan", photoUrl: "/images/organization-committee/alara_rodoplu.jpeg" },
-            { name: "İlayda Özbebit", photoUrl: "/images/organization-committee/alara_rodoplu.jpeg" },
+            { name: "Buse Eraslan" ,  photoUrl: "/images/organization-committee/buse_eraslan.jpg" },
         ],
     },
 ];
