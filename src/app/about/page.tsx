@@ -56,7 +56,7 @@ export default function About() {
                 </div>
 
                 {/* LOGOLAR */}
-                <div className="flex flex-wrap">
+                <div className="flex justify-center flex-wrap gap-2">
                     <Image src="/images/logo/echoBot.svg" alt="SVG 1" width={144} height={144} />
                     <Image src="/images/logo/ecoEmsa.svg" alt="SVG 2" width={144} height={144} />
                     <Image src="/images/logo/medClub.svg" alt="SVG 3" width={144} height={144} />

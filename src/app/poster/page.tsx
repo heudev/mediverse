@@ -74,7 +74,7 @@ export default function Poster() {
 
                 <div className="mt-10">
                     <h3 className="text-center text-3xl font-bold mb-6">Poster Sunumları Jürileri</h3>
-                    <div className="flex justify-center gap-8">
+                    <div className="flex flex-wrap justify-center gap-8">
                         <div className="text-center">
                             <div className="w-32 h-32 bg-gray-300 rounded-full mx-auto mb-3"></div>
                             <p className="font-semibold">Ass. Prof. Ayşe Banu Demir</p>
