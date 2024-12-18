@@ -65,7 +65,7 @@ const sponsors = [
     },
     {
         name: "Gemini",
-        imageSrc: "/images/sponsors/gemini.png",
+        imageSrc: "/images/sponsors/gemini.jpeg",
         category: "Maddi Sponsoru",
     },
     

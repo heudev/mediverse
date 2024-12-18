@@ -188,6 +188,15 @@ const speakers = [
         imageUrl: "/images/speakers/borabay_erbay.jpg",
         talkTitle: "",
     },
+    {
+        name: "Can Erdi Kara",
+        description: [
+            "ODTÜ Havacılık ve Uzay Mühendisliği bölümünden 2009 yılında mezun olmuş, 2001-2005 yılları arasında Bornova Anadolu Lisesi'nde eğitim görmüştür. Kariyerine Roketsan'da sistem mühendisliği yaparak başlamış, 2010-2016 yılları arasında bu pozisyonda çalışmıştır. 2017 yılında CHARA şirketini, 2022 yılında ise Appelier Yazılım ve Danışmanlık Hizmetleri Ltd. Şti.'yi kurarak girişimcilik alanına adım atmıştır. Halen bu şirketlerin kurucusu ve yöneticisi olarak çalışmalarını sürdürmektedir.",
+            "Mediverse Kongresinde ''PANEL'' oturumundaki konuklardan biridir."
+        ],
+        imageUrl: "/images/speakers/can_erdi_kara.jpeg",
+        talkTitle: "",
+    }, 
     /*     {
             name: "",
             description: [
