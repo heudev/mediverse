@@ -15,8 +15,8 @@ const SponsorCard: React.FC<SponsorCardProps> = ({ name, imageSrc, category }) =
                     src={imageSrc}
                     alt={name}
                     className="max-h-full max-w-full object-contain"
-                    width={1920}
-                    height={1080}
+                    width={200}
+                    height={200}
                 />
             </div>
             <h3 className="text-lg font-semibold">{name}</h3>
