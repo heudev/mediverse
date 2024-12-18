@@ -1,4 +1,5 @@
 import React from "react";
+import Image from "next/image";
 
 interface SponsorCardProps {
     name: string;
@@ -10,10 +11,12 @@ const SponsorCard: React.FC<SponsorCardProps> = ({ name, imageSrc, category }) =
     return (
         <div className="flex flex-col items-center justify-center text-center p-4 border rounded-lg bg-white shadow-lg">
             <div className="flex items-center justify-center w-full h-40 bg-gray-100">
-                <img
+                <Image
                     src={imageSrc}
                     alt={name}
                     className="max-h-full max-w-full object-contain"
+                    width={1920}
+                    height={1080}
                 />
             </div>
             <h3 className="text-lg font-semibold">{name}</h3>
@@ -46,7 +49,7 @@ const sponsors = [
     {
         name: "TusData",
         imageSrc: "/images/sponsors/tusData.jpg",
-        category: "Maddi Sponsoru",
+        category: "Çekiliş Sponsoru",
     },/*
     {
         name: "Yves Rocher",
@@ -68,7 +71,7 @@ const sponsors = [
         imageSrc: "/images/sponsors/gemini.jpeg",
         category: "Maddi Sponsoru",
     },
-    
+
 ];
 
 export default function Sponsors() {
