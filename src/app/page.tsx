@@ -9,7 +9,7 @@ export default function Page() {
       </div>
 
       <div className='space-y-10 px-4 lg:px-0'>
-        <h1 className="text-4xl lg:text-5xl font-extrabold text-yellow-300 text-center drop-shadow-lg">MEDIVERSE KONFERANS</h1>
+        <h1 className="text-4xl lg:text-5xl font-extrabold text-yellow-300 text-center drop-shadow-lg">MEDIVERSE KONGRE</h1>
         <div className='space-y-5'>
           <div className='flex justify-center lg:justify-start'>
             <CountdownTimer />
