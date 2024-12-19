@@ -62,9 +62,8 @@ const committees: Committee[] = [
         ],
     },
     {
-        name: "Mali İşler ve Sponsorluk Organizasyon Komitesi Üyeleri",
+        name: "Organizasyon Komitesi Danışmanı",
         members: [
-            { name: "Çağın Olgun", photoUrl: "/images/organization-committee/cagin_olgun.jpeg" },
             { name: "Arda Can Akyüz", photoUrl: "/images/organization-committee/arda_can_akyuz.jpeg" },
         ],
     },

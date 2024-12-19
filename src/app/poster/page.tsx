@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 export default function Poster() {
     return (
         <div className="bg-gradient-to-b from-blue-900 to-blue-600  min-h-screen">
@@ -76,15 +78,39 @@ export default function Poster() {
                     <h3 className="text-center text-3xl font-bold mb-6">Poster Sunumları Jürileri</h3>
                     <div className="flex flex-wrap justify-center gap-8">
                         <div className="text-center">
-                            <div className="w-32 h-32 bg-gray-300 rounded-full mx-auto mb-3"></div>
+                            <div className="w-32 h-32 bg-gray-300 rounded-full overflow-hidden mx-auto mb-3">
+                                <Image
+                                    src="/images/poster/ayse_banu_demir.jpg"
+                                    alt="Ass. Prof. Ayşe Banu Demir"
+                                    className="object-cover w-full h-full"
+                                    width={128}
+                                    height={128}
+                                />
+                            </div>
                             <p className="font-semibold">Ass. Prof. Ayşe Banu Demir</p>
                         </div>
                         <div className="text-center">
-                            <div className="w-32 h-32 bg-gray-300 rounded-full mx-auto mb-3"></div>
+                            <div className="w-32 h-32 bg-gray-300 rounded-full overflow-hidden mx-auto mb-3">
+                                <Image
+                                    src="/images/poster/gul_akdogan.jpg"
+                                    alt="Prof. Dr. Gül Akdoğan"
+                                    className="object-cover w-full h-full"
+                                    width={128}
+                                    height={128}
+                                />
+                            </div>
                             <p className="font-semibold">Prof. Dr. Gül Akdoğan</p>
                         </div>
                         <div className="text-center">
-                            <div className="w-32 h-32 bg-gray-300 rounded-full mx-auto mb-3"></div>
+                            <div className="w-32 h-32 bg-gray-300 rounded-full overflow-hidden mx-auto mb-3">
+                                <Image
+                                    src="/images/poster/ozden_gokdemir.jpg"
+                                    alt="Doç. Dr. Özden Gökdemir"
+                                    className="object-cover w-full h-full"
+                                    width={128}
+                                    height={128}
+                                />
+                            </div>
                             <p className="font-semibold">Doç. Dr. Özden Gökdemir</p>
                         </div>
                     </div>
