@@ -27,13 +27,18 @@ const SponsorCard: React.FC<SponsorCardProps> = ({ name, imageSrc, category }) =
 
 const sponsors = [
     {
+        name: "İzmir Büyükşehir Belediyesi - Genç İzmir",
+        imageSrc: "/images/sponsors/izmir.jpg",
+        category: "Genel Sponsor",
+    },
+    {
         name: "Niki The Cat Coffee",
         imageSrc: "/images/sponsors/niki.jpg",
         category: "Kahve Molası Sponsoru",
     },
     {
-        name: "İzmir Büyükşehir Belediyesi",
-        imageSrc: "/images/sponsors/izmir.jpg",
+        name: "Kuru Kahveci Mehmet Efenedi",
+        imageSrc: "/images/sponsors/kuruKahveci.png",
         category: "Kahve Molası Sponsoru",
     },
     {
@@ -47,15 +52,20 @@ const sponsors = [
         category: "Ürün Sponsoru",
     },
     {
+        name: "The Purest Solutions Academy",
+        imageSrc: "/images/sponsors/purest.png",
+        category: "Ürün Sponsoru",
+    },
+    {
         name: "TusData",
         imageSrc: "/images/sponsors/tusData.jpg",
         category: "Çekiliş Sponsoru",
-    },/*
+    },
     {
         name: "Yves Rocher",
-        imageSrc: "/images/sponsors/yves.png",
+        imageSrc: "/images/sponsors/Yves_Rocher_Brand_Logo.jpg",
         category: "Çekiliş Sponsoru",
-    },
+    },/*
     {
         name: "Dodo Pizza",
         imageSrc: "/images/dodo.png",

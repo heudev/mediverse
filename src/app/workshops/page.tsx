@@ -204,8 +204,7 @@ export default function Workshops() {
         { title: "Tanı Dedektifleri: Patolojinin Gizemi", people: ["Özge Ertener"] },
         { title: "Tıpta Girişimcilik: Yapay Zeka", people: ["Doğa Özdengülsün"] },
         { title: "Tıp Eğitiminde Dijital Yöntemler", people: ["Gemini Bilgi - Özlem Aksu"] },
-        { title: "Farkındalık", people: ["Prof. Dr. Gönül Dinç Horasan"] },
-        { title: "Hayat Tıbbı", people: ["Prof. Dr. Özgür Aslan"] },
+        { title: "Farkındalık", people: ["Prof. Dr. Gönül Dinç Horasan", "Hande Aşıcı"] },
     ];
 
     const sundayEvents = [
@@ -217,7 +216,6 @@ export default function Workshops() {
         { title: "Teletıp", people: ["Prof. Dr. Görsel Altınışık Ergür"] },
         { title: "Sağlıklı Yaşam", people: ["Uzm. Dr. Gül Kulan"] },
         { title: "Glukometre Probu", people: ["Dr. Yalın Kılıç"] },
-        { title: "Sosyal Medya İçerikleri ile Tıp Eğitimi", people: ["Onur Gülel"] },
         { title: "Yapay Zeka ve Giyilebilir Teknolojiler", people: ["Psikolog Dr. Işıl Çoklar Okutkan"] },
     ];
 

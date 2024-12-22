@@ -63,7 +63,7 @@ const speakers = [
         description: [
             "Akdeniz Üniversitesi Tıp Fakültesi’nden 1993 yılında mezun olduktan sonra, 1998 yılında SBÜ İstanbul Okmeydanı Eğitim Hastanesi’nde genel cerrahi uzmanlık eğitimini tamamladı. Kariyerine SBÜ Okmeydanı Eğitim Hastanesi’nde genel cerrahi uzmanı olarak başladı. Ardından, Afyon Kocatepe ve Sakarya Üniversitesi Tıp Fakültelerinde öğretim üyeliği yaptı. Sağlık Bilimleri Üniversitesi İzmir Tepecik EAH’de eğitim görevlisi olarak çalışan Prof. Dr. Akbulut, 2019 yılından itibaren Tınaztepe Üniversitesi Tıp Fakültesi’nde öğretim üyesi ve Tınaztepe Galen Bayraklı Hastanesi’nde başhekim olarak görev yapmaktadır.",
         ],
-        imageUrl: "/images/speakers/speaker3.jpg",
+        imageUrl: "/images/speakers/gokhan_akbulut.jpg",
         talkTitle: "MediVerse: Tıbbın Geleceği Kongresi'nde 'Genel Cerrahi Uygulamalarda Yapay Zeka' oturumunu gerçekleştirecektir.",
     },
     {
@@ -93,7 +93,7 @@ const speakers = [
             "1975 yılında Kayseri’de doğmuş, üniversite eğitimini tamamladıktan sonra 2003 yılından itibaren Psikiyatri Uzmanı olarak çalışmaya başlamıştır. Mesleki deneyimini Didim Devlet Hastanesi, İpekyolu Devlet Hastanesi, Yüzüncü Yıl Üniversitesi ve Eskişehir Sağlık Müdürlüğü gibi kurumlarda geliştirmiştir. Eğitim hayatında çok yönlü bir yaklaşım sergileyerek Tıp Fakültesi'nin yanı sıra Sosyoloji, Hastane Kurum İşletmeciliği ve Spor Yönetimi alanlarında da eğitim almıştır. Ayrıca ODTÜ’den aldığı sertifikalarla pazarlama iletişimi, mikrodenetleyiciler ve katı cisim modelleme gibi alanlarda uzmanlaşmıştır.",
             "Dijital teknolojilere olan ilgisiyle tanınan Özbebit, sürekli gelişen teknolojiye ve özellikle Web3 ekosistemine hâkimdir. Bilgisayar ve yazılım becerileriyle hem profesyonel hem de kişisel projelerde aktif rol almaktadır. Kendini “beş kedi babası” olarak tanımlayacak kadar hayvansever olan Özbebit, sanatsal çalışmalar ve müzik terapisi gibi alanlara da ilgi duymaktadır. Kariyerini mesleki uzmanlık, dijital dünyaya uyum ve sürekli öğrenme anlayışıyla şekillendiren Özbebit, yenilikçi bakış açısını her zaman ön planda tutmaktadır."
         ],
-        imageUrl: "/images/speakers/speaker6.jpg",
+        imageUrl: "/images/speakers/ozgur_ozbebit.jpg",
         talkTitle: "MediVerse: Tıbbın Geleceği Kongresi'nde 'Genel Cerrahi Uygulamalarda Yapay Zeka' oturumunu gerçekleştirecektir.",
     },
     {
@@ -160,7 +160,7 @@ const speakers = [
             "2019 yılından itibaren İzmir Ekonomi Üniversitesi Tıp Fakültesi’nde yarı zamanlı öğretim elemanı olarak görev yapan Dr. Akyıldız, öğrencilere İngilizce olarak kardiyoloji dersleri vermektedir. Ayrıca 2018 yılından itibaren özel muayenehanesinde kardiyoloji uzmanı ve fitoterapi uzmanı olarak hizmet sunmaktadır. Kendisi aynı zamanda Türkiye Sutopu Federasyonu Eğitim Kurulu’nda görev almakta ve aktif bilimsel çalışmalarını sürdürmektedir.",
 
         ],
-        imageUrl: "/images/speakers/speaker13.jpg",
+        imageUrl: "/images/speakers/zehra_ilke_akyildiz.jpg",
         talkTitle: "MediVerse: Tıbbın Geleceği Kongresi’nde 'Gerçek Çevre Temelli Sanal Gerçeklik Psikososyal Tedavisi Şizofreni' başlıklı oturumda konuşmacı olarak yer alacaktır. PANEL:Yapay Zekanın Birinci Basamak Sağlık Hizmetlerindeki Rolü ve Geleceği",
     },
     {
