@@ -38,7 +38,7 @@ const scheduleData = [
             { time: "", title: "Kahve Molası", speaker: "" },
             { time: "14.20-15.00", title: "Yaşam Zinciri: Organ Naklinin Dünü, Bugünü ve Yarını", speaker: "Prof. Dr. Murat Kılıç" },
             { time: "", title: "Kahve Molası", speaker: "" },
-            { time: "15.10-15.50", title: "Gerçek Çevre Temelli Sanal Gerçeklik Psikososyal Tedavisi Şizofreni", speaker: "Yağmur Özbek İşbitiren" },
+            { time: "15.10-15.50", title: "Nörodejeneratif hastalıklarda VR ile kognitif rehabilitasyon", speaker: "Yağmur Özbek İşbitiren" },
             { time: "", title: "Kahve Molası", speaker: "" },
             { time: "16.00-16.40", title: "Kardiyolojide Yenilikler", speaker: "Doç. Dr. Zehra İlke Akyıldız" },
             { time: "", title: "Kahve Molası", speaker: "" },

@@ -148,7 +148,7 @@ const speakers = [
 
         ],
         imageUrl: "/images/speakers/yagmur_ozbek_isbitiren.jpeg",
-        talkTitle: "MediVerse: Tıbbın Geleceği Kongresi’nde 'xx' başlıklı oturumda konuşmacı olarak yer alacaktır.",
+        talkTitle: "MediVerse: Tıbbın Geleceği Kongresi’nde “Nörodejeneratif hastalıklarda VR ile kognitif rehabilitasyon” başlıklı oturumda konuşmacı olarak yer alacaktır.",
     },
     {
         name: "Doç. Dr. Zehra İlke Akyıldız",
