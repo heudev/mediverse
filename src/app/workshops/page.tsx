@@ -169,7 +169,7 @@ export default function Workshops() {
         "Ali Burak Özkaya": {
             name: "Ali Burak Özkaya",
             photoUrl: "/images/workshops/ali_burak_ozkaya.jpg",
-            subtitle: "Argüman Analizi ve Otofaji",
+            subtitle: "Argüman Analizi",
             description: "Ege Üniversitesi'nde Biyokimya alanında lisans (2002-2006) ve yüksek lisans (2006-2009) eğitimini tamamladıktan sonra, 2010-2015 yılları arasında Ege Üniversitesi Biyokimya Anabilim Dalı'nda Biyokimya alanında doktora yaptı. Eğitim sürecinde pre-klinik çalışmalar, proje yönetimi ve eğitim konularında deneyim kazandı. Profesyonel kariyerine 2015'te Dokuz Eylül Üniversitesi'nde öğretim görevlisi olarak başlamış ve 2017'de İzmir Ekonomi Üniversitesi'nde yardımcı doçent olarak göreve devam etmiştir. Burada, biyokimya ve eleştirel düşünme dersleri vermekte, e-öğrenme platformunun yönetimiyle ilgilenmektedir. Ayrıca, fakültenin araştırma ekibinin bir üyesidir. FEBS (Federation of European Biochemical Societies) ağında Networking ve Entegrasyon Komitesi üyeliği görevini yürütmektedir. Özkaya, çeşitli araştırma projelerinde de yer almış, TUBİTAK destekli projelerde çalışmış ve uluslararası araştırma deneyimi kazanmıştır. Bunlar arasında, MD Anderson Kanser Merkezi'nde, Almanya Ulm Üniversitesi'nde ve Onvivo Diagnostik ve Biyoteknoloji'de gerçekleştirdiği çalışmaları sayılabilir.",
         },
         /* 
