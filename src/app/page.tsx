@@ -29,11 +29,11 @@ export default function Page() {
         <div className="flex flex-col items-center space-y-5 z-10">
           <div className="flex flex-col items-center space-y-0.5 w-full lg:w-96">
             <div className="text-center text-md lg:text-lg text-cyan-300 font-extrabold tracking-wide drop-shadow-md">KATILIMCI BAŞVURUSU</div>
-            <button className="btn w-full bg-yellow-500 hover:bg-yellow-600 text-black rounded-lg shadow-lg transform transition-transform hover:scale-105">Form Linki</button>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSfoIJ2s6UgCVyeQlxlzNm2Zcwj65k7b4zxUXGxCi_nT9iuHXg/viewform?usp=sf_link" target="_blank" className="btn w-full bg-yellow-500 hover:bg-yellow-600 text-black rounded-lg shadow-lg transform transition-transform hover:scale-105">Form Linki</a>
           </div>
           <div className="flex flex-col items-center space-y-0.5 w-full lg:w-96">
             <div className="text-center text-md lg:text-lg text-purple-300 font-extrabold tracking-wide drop-shadow-md">POSTER SUNUMLARI BAŞVURUSU</div>
-            <button className="btn w-full bg-green-500 hover:bg-green-600 text-black rounded-lg shadow-lg transform transition-transform hover:scale-105">Form Linki</button>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLScPMY1ynCEgGSQEYxvT_Xms-pqV3dxm6MjnK1s1wHj5vVJSTw/viewform?usp=sf_link" target="_blank" className="btn w-full bg-green-500 hover:bg-green-600 text-black rounded-lg shadow-lg transform transition-transform hover:scale-105">Form Linki</a>
           </div>
         </div>
       </div>

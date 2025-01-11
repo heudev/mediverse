@@ -66,7 +66,7 @@ export default function Poster() {
                             POSTER SUNUMLARI BAŞVURUSU İÇİN
                         </h3>
                         <a
-                            href="#"
+                            href="https://docs.google.com/forms/d/e/1FAIpQLScPMY1ynCEgGSQEYxvT_Xms-pqV3dxm6MjnK1s1wHj5vVJSTw/viewform?usp=sf_link" target="_blank"
                             className="bg-purple-600 hover:bg-purple-700 text-white py-2 px-6 rounded-lg shadow-md font-bold inline-block"
                         >
                             FORM LİNKİ
