@@ -94,14 +94,14 @@ export default function Workshops() {
             subtitle: "Teletıp",
             description: "İstanbul Atatürk Fen Lisesi’nden 1985 yılında mezun oldu. Ege Üniversitesi Tıp Fakültesinden 1991 yılında mezun olarak 1998 yılında Dokuz Eylül Üniversitesi’nde Göğüs Hastalıkları uzmanlık eğitimini tamamladı. Royal Brompton Hospital İnterstisyel Akciğer Hastalıkları Kliniğinde konuyla ilgili eğitimi için 2003 yılında bulundu.Pamukkale Üniversitesi’nde 2000 yılından beri Göğüs Hastalıkları uzmanı olarak çalışmaktadır. Haziran 2020’den beri teletıp yöntemiyle COVID ve COVID-dışı göğüs hastalıkları hastalarına ücretsiz sağlık hizmeti vermektedir. Bu alanda ülkede birçok öncü uygulamayı gerçekleştirmektedir. İlk sigara e-bırakma uygulaması, klinik eğitimde tele-tıbbın kullanılması gibi alanlar bunlar arasındadır. Hasta-hekim iletişimi konusunda seminerler vermekte, ekran aracılı iletişim üzerine deneyimlerini paylaşmaktadır.Anadolu Üniversitesi Açıköğretim Fakültesi Sosyoloji Bölümünden 2017 yılında lisans, İstanbul Üniversitesi Edebiyat Fakültesi Sosyoloji Bölümünden 2021 yılında yüksek lisans mezunudur.Ateş ve İhanet: COVID Kliniğinde Sağlık Çalışanlarının Deneyimleri kitabının, hekimlerin COVID dönemindeki istifa ve erken emeklilik kararlarını ele alan araştırmanın yazarlarından ve Cam Duvar Ardındaki COVID Hastaları kitabının yazarıdır. Ayrıca öykü ve şiir kitapları bulunmaktadır. ",
         },
-        "Özge Ertener": {
-            name: "Özge Ertener",
+        "Dr. Öğr. Üyesi Özge Ertener": {
+            name: "Dr. Öğr. Üyesi Özge Ertener",
             photoUrl: "/images/workshops/ozge_ertener.jpg",
             subtitle: "Tanı Dedektifleri: Patolojinin Gizemi",
             description: "1980 yılında İstanbul ‘da doğdu. 2004 yılında Celal Bayar Üniversitesi Tıp Fakültesinden mezun oldu. 2005- 2007 yılları arasında İzmir Eğitim Araştırma Hastanesinde Aile Hekimliği Asistanlığı yaptı. 2008 yılında İzmir Dokuz Eylül Üniversitesi Tıp Fakültesi Tıbbi Patoloji Anabilim Dalında başladığı uzmanlık eğitimini 2013 yılında tamamladı. 2013-2016 yılları arasında Ağrı Devlet Hastanesinde Devlet Hizmet Yükümlülüğünü yerine getirdi. 2016 yılı Nisan ayında İzmir Ekonomi Üniversitesi Tıp Fakültesi Tıbbi Patoloji departmanında Yardımcı Doçent olarak göreve başladı. ORCID id: http://orcid.org/0000-0002-4957-7877",
         },
-        "Uzm. Dr. Gül Kulan": {
-            name: "Uzm. Dr. Gül Kulan",
+        "Dr. Gül Kulan": {
+            name: "Dr. Gül Kulan",
             photoUrl: "/images/workshops/gul_kulan.jpeg",
             subtitle: "Sağlıklı Yaşam",
             description: "1977 yılında Kütahya’da doğmuştur. İlk ve orta öğrenimini Kütahya Anadolu Lisesi’nde tamamlamış, ardından 1995 yılında Hacettepe Üniversitesi Tıp Fakültesi’ne başlamıştır. Tıp eğitimine devam ederken fizik tedavi stajında rehabilitasyonun etkileyici sonuçlarından etkilenmiş ve bu alanda uzmanlaşmaya karar vermiştir. Uzmanlık eğitimini Ankara Üniversitesi Tıp Fakültesi Fiziksel Tıp ve Rehabilitasyon Anabilim Dalı’nda tamamlamıştır ￼.Meslek hayatında Gediz Devlet Hastanesi, Kütahya Evliya Çelebi Eğitim ve Araştırma Hastanesi ve Özel Kütahya Parkhayat Hastanesi gibi çeşitli kurumlarda çalışmış, nörolojik, pediatrik ve ortopedik rehabilitasyon ile lenfödem tedavisi gibi konular üzerinde deneyim kazanmıştır. Şu anda İzmir’de Özel Balçova Fizik Tedavi ve Rehabilitasyon Dal Merkezi’nde görev yapmaktadır￼. Dr. Kulan, geleneksel ve tamamlayıcı tıp (GETAT) uygulamalarında da uzmanlaşmıştır. Akupunktur, proloterapi, ozon terapi, nöralterapi, hacamat (kupa tedavisi) ve kuru iğne tedavisi gibi alanlarda eğitim almıştır. Ayrıca fonksiyonel tıp yaklaşımlarını benimseyerek hastalarına bütüncül bir sağlık hizmeti sunmaktadır. Yaşam koçluğu ve nefes terapisi gibi yöntemlerle de bireylerin fiziksel ve ruhsal sağlıklarını desteklemektedir",
@@ -124,8 +124,8 @@ export default function Workshops() {
             subtitle: "Kendi İlacını Tasarla: Farmakoloji ve Moleküler Simülasyon",
             description: "Farmakoloji alanında geniş bir akademik ve profesyonel geçmişe sahiptir. Ege Üniversitesi Eczacılık Fakültesi'nden 1986 yılında lisans derecesi ile mezun olmuş, 1989 yılında Farmakoloji alanında yüksek lisans eğitimini tamamlamıştır. Doktora derecesini ise Cincinnati Üniversitesi Tıp Fakültesi Farmakoloji ve Hücre Biyofiziği Departmanı'nda 1997 yılında almıştır. Akademik kariyerine 1998 yılında Ege Üniversitesi Eczacılık Fakültesi'nde Yardımcı Doçent olarak başlamış, aynı dönemde Ordu İlaç Fabrikası Komutanlığı'nda Kalite Kontrol Laboratuvarı Şef Yardımcılığı yapmıştır. 2001-2009 yılları arasında Doçent, 2009-2016 yılları arasında ise Profesör olarak Ege Üniversitesi'nde görev almıştır. 2016 yılından itibaren, İzmir Ekonomi Üniversitesi Tıp Fakültesi Dahili Tıp Bilimleri bölümünde öğretim üyesi olarak çalışmaya devam etmektedir. Farmakoloji alanındaki uzmanlığıyla hem akademik hem de uygulamalı çalışmalara katkı sağlamaktadır.",
         },
-        "Dr. Elif Barış": {
-            name: "Dr. Elif Barış",
+        "Asistan Profesör Elif Barış": {
+            name: "Asistan Profesör Elif Barış",
             photoUrl: "/images/workshops/",
             subtitle: "Kendi İlacını Tasarla: Farmakoloji ve Moleküler Simülasyon",
             description: "Farmakoloji ve eczacılık alanlarında uzmanlaşmış bir akademisyendir. Doğu Akdeniz Üniversitesi Eczacılık Fakültesi'nden 2017 yılında, fakülte birincisi olarak mezun olmuştur. Aynı yıl Dokuz Eylül Üniversitesi Farmakoloji Bölümünde doktora çalışmalarına başlamıştır. Dr. Barış, 2017'den bu yana İzmir Ekonomi Üniversitesi Tıp Fakültesi'nde Araştırma Görevlisi olarak çalışmaktadır. 2022 yılından itibaren İzmir Ekonomi Üniversitesi'nde Yardımcı Doçent unvanıyla akademik kariyerine devam etmektedir. Farmakoloji alanındaki çalışmalarıyla bilimsel araştırmalara ve eğitim faaliyetlerine katkıda bulunmaktadır.",
@@ -148,14 +148,14 @@ export default function Workshops() {
             subtitle: "Hayat Tıbbı",
             description: "Ege Üniversitesi Tıp Fakültesi’nden mezun olduktan sonra Kardiyoloji uzmanlık eğitimini İzmir Atatürk Eğitim Hastanesi Kardiyoloji Kliniği’nde tamamlamıştır. 1996 yılında, İspanya'nın Barselona şehrinde Otonom Üniversite’nin Sant Pau Hastanesi’nde kardiyak elektrofizyoloji alanında eğitim alarak, bu alanda derinleşmiştir. 1997 yılında Kardiyoloji Uzmanı unvanını kazanarak, 1997-2004 yılları arasında Dokuz Eylül Üniversitesi Kardiyoloji Anabilim Dalı’nda Yardımcı Doçent olarak görev yapmıştır. 2004 yılında Kardiyoloji Doçenti unvanını almış, 2010 yılında ise Kardiyoloji Profesörü olarak atandı. Prof. Dr. Özgür Aslan, kalp ritim bozuklukları ve elektrofizyolojisi üzerine yoğunlaşarak, bu alanda akademik çalışmalar yapmış ve klinik hizmetler sunmuştur. Yurt içi ve yurt dışındaki çeşitli akademik çalışmalarda yer almış, birçok makale ve araştırma yayınlamıştır.",
         },
-        "Sude Pehlivan Akbuğday": {
-            name: "Sude Pehlivan Akbuğday",
+        "Araş.Gör.Sude Pehlivan Akbuğday": {
+            name: "Araş.Gör.Sude Pehlivan Akbuğday",
             photoUrl: "/images/workshops/",
             subtitle: "Biyomedikal Perspektiften Zihin ve Duyular",
             description:"2015 yılında Ankara Cumhuriyet Anadolu Öğretmen Lisesi'nden mezun oldu. 2019 yılında İzmir Katip Çelebi Üniversitesi Biyomedikal Mühendisliği bölümünden lisans derecesi aldı. Eylül 2021’de İzmir Ekonomi Üniversitesi’nde Elektrik-Elektronik Mühendisliği bütünleşik doktora eğitimine başladı.",
         },
-        "Burak Akbuğday": {
-            name: "Burak Akbuğday",
+        "Araş.Gör.Burak Akbuğday": {
+            name: "Araş.Gör.Burak Akbuğday",
             photoUrl: "/images/workshops/",
             subtitle: "Biyomedikal Perspektiften Zihin ve Duyular",
             description: "2017 yılında Zonguldak Bülent Ecevit Üniversitesi, Biyomedikal Mühendisliği Bölümü'nden birincilikle mezun olmuştur ve aynı zamanda Mühendislik Fakültesi'nin selamlayıcı konuşmacısı olmuştur. Lisans eğitiminde, TÜBİTAK ve diğer ilgili kurumlardan çeşitli burslar almıştır. 2021 yılından itibaren İzmir Ekonomi Üniversitesi Elektrik-Elektronik Mühendisliği Bölümü'nde entegre doktora öğrencisi olarak eğitimine devam etmekte olup, aynı bölümde araştırma görevlisi olarak çalışmaktadır ve şu anda TÜBİTAK bursu almaktadır. Mevcut araştırmaları biyomedikal sinyal işleme, makine öğrenmesi ve derin öğrenme üzerine odaklanmaktadır.",
@@ -166,8 +166,8 @@ export default function Workshops() {
             subtitle: "Farkındalık",
             description: "İzmir Ekonomi Üniversitesi Tıp Fakültesi’nde Halk Sağlığı Anabilim Dalı’nda çalışmaktadır. Dr Dinç Horasan Ege Üniversitesi Tıp Fakültesinden 1990 yılında mezun olmuş, Akdeniz Üniversitesi’nden Halk Sağlığı uzmanlık eğitimini almıştır. 1996-2017 yılları arasında Celal Bayar Üniversitesi’nde çalışan Dr Horasan, 2006 yılında Bristol Üniversitesi Toplum Hekimliği Bölümü’nde (Bristol University Primary Health Care Unit) fellowship olarak çalışmıştır. Dr Dinç Horasan lisans öncesi, lisans sonrası eğitim programlarında ağırlıklı olarak epidemiyoloji, biyoistatistik, üreme sağlığı, bulaşıcı olmayan hastalıklar konularında dersler vermektedir. Toplum tabanlı hastalık kontrol programları, üreme sağlığı çalışma konularını oluşturmaktadır. Dr Dinç Horasan 2012-2015 yılları arasında MCBÜ Kadın Çalışmaları Araştırma ve Uygulama Merkezinin kurucu müdürlüğünü yapmış, 2012-2017 yılları arasında ise aynı üniversitenin Sosyal Bilimler Enstitüsü Kadın Çalışmaları yüksek lisans programının sorumluluğunu da yürütmüştür. Dr Horasan 2021 yılından beri İzmir Ekonomi Üniversitesi Toplumsal Cinsiyet ve Kadın Çalışmaları Uygulama ve Araştırma Merkezi (EKOKAM) Müdürlüğünü yürütmektedir. Dr Horasan evli ve biri kız diğeri erkek ikiz çocuk annesidir.",
         },
-        "Ali Burak Özkaya": {
-            name: "Ali Burak Özkaya",
+        "Dr. Öğr. Üyesi Ali Burak Özkaya": {
+            name: "Dr. Öğr. Üyesi Ali Burak Özkaya",
             photoUrl: "/images/workshops/ali_burak_ozkaya.jpg",
             subtitle: "Argüman Analizi",
             description: "Ege Üniversitesi'nde Biyokimya alanında lisans (2002-2006) ve yüksek lisans (2006-2009) eğitimini tamamladıktan sonra, 2010-2015 yılları arasında Ege Üniversitesi Biyokimya Anabilim Dalı'nda Biyokimya alanında doktora yaptı. Eğitim sürecinde pre-klinik çalışmalar, proje yönetimi ve eğitim konularında deneyim kazandı. Profesyonel kariyerine 2015'te Dokuz Eylül Üniversitesi'nde öğretim görevlisi olarak başlamış ve 2017'de İzmir Ekonomi Üniversitesi'nde yardımcı doçent olarak göreve devam etmiştir. Burada, biyokimya ve eleştirel düşünme dersleri vermekte, e-öğrenme platformunun yönetimiyle ilgilenmektedir. Ayrıca, fakültenin araştırma ekibinin bir üyesidir. FEBS (Federation of European Biochemical Societies) ağında Networking ve Entegrasyon Komitesi üyeliği görevini yürütmektedir. Özkaya, çeşitli araştırma projelerinde de yer almış, TUBİTAK destekli projelerde çalışmış ve uluslararası araştırma deneyimi kazanmıştır. Bunlar arasında, MD Anderson Kanser Merkezi'nde, Almanya Ulm Üniversitesi'nde ve Onvivo Diagnostik ve Biyoteknoloji'de gerçekleştirdiği çalışmaları sayılabilir.",
@@ -199,24 +199,29 @@ export default function Workshops() {
         { title: "The Case Files: Diagnosis Edition", people: ["Prof. Dr. İncim Bezircioğlu", "Prof. Dr. Oğuz Kılınç"] },
         { title: "Sütür Atma Atölyesi", people: ["Op. Dr. Barış Zamandar"] },
         { title: "Yeni Sağlık Hizmetleri ve Cinsiyet Kavramı", people: [] },
-        { title: "Argüman Analizi ve Otofaji", people: ["Ali Burak Özkaya"] },
-        { title: "Da Vinci Cerrahisi", people: ["CordaMed - Okan Ünsal"] },
-        { title: "Tanı Dedektifleri: Patolojinin Gizemi", people: ["Özge Ertener"] },
+        { title: "Argüman Analizi", people: ["Dr. Öğr. Üyesi Ali Burak Özkaya"] },
+        { title: "Da Vinci Uygulama Atölyesi", people: ["CordaMed - Okan Ünsal"] },
+        { title: "Tanı Dedektifleri: Patolojinin Gizemi", people: ["Dr. Öğr. Üyesi Özge Ertener"] },
         { title: "Tıpta Girişimcilik: Yapay Zeka", people: ["Doğa Özdengülsün"] },
-        { title: "Tıp Eğitiminde Dijital Yöntemler", people: ["Gemini Bilgi - Özlem Aksu"] },
+        { title: "Tıp Eğitiminde Yeni Yöntemler", people: ["Gemini Bilgi - Özlem Aksu"] },
+        { title: "Yapay Zeka ve Giyilebilir Teknolojiler", people: ["Psikolog Dr. Işıl Çoklar Okutkan"] },
+        { title: "Akan Hücre Ölçerin Geleceği", people: ["Asistan Profesör Alper Togay"] },
+        { title: "Yeni Sağlık Hizmetleri ve Cinsiyet Kavramı", people: ["İzmir Kadın Dayanışma Derneği-Reyhan Gümüşkaya","Uzm.Psikolog Ezgi Bayırlı"] },
         { title: "Farkındalık", people: ["Prof. Dr. Gönül Dinç Horasan", "Hande Aşıcı"] },
     ];
 
     const sundayEvents = [
-        { title: "Hayat Tıbbı", people: ["Prof. Dr. Özgür Aslan"] },
-        { title: "Otofaji", people: ["Ali Burak Özkaya"] },
-        { title: "Biyomedikal Perspektiften Zihin ve Duyular",people: ["Sude Pehlivan Akbuğday", "Burak Akbuğday"], },
-        { title: "Dijital Kirlilik ve Sağlık", people: ["Lets Do It"] },
-        { title: "Kendi İlacını Tasarla: Farmakoloji ve Moleküler Simülasyon", people: ["Prof. Dr. Metiner Tosun", "Dr. Elif Barış"], },
         { title: "Teletıp", people: ["Prof. Dr. Görsel Altınışık Ergür"] },
-        { title: "Sağlıklı Yaşam", people: ["Uzm. Dr. Gül Kulan"] },
+        { title: "Sağlıkta Üreten Tıp", people: ["Kutsal Ozkurt"] },
+        { title: "Biyomedikal Perspektiften Zihin ve Duyular",people: ["Araş.Gör.Sude Pehlivan Akbuğday", "Araş.Gör.Burak Akbuğday"], },
         { title: "Glukometre Probu", people: ["Dr. Yalın Kılıç"] },
-        { title: "Yapay Zeka ve Giyilebilir Teknolojiler", people: ["Psikolog Dr. Işıl Çoklar Okutkan"] },
+        { title: "Farkındalık ve Gönüllülük Çalışmaları", people: ["Genç İzmir"] },
+        { title: "Dijital Kirlilik ve Sağlık", people: ["Lets Do It - Elif Merve Can"] },
+        { title: "Hayat Tıbbı", people: ["Prof. Dr. Özgür Aslan"] },
+        { title: "Otofaji", people: ["Dr. Öğr. Üyesi Ali Burak Özkaya"] },
+        { title: "Sağlıklı Yaşam", people: ["Dr. Gül Kulan"] },
+        { title: "Kendi İlacını Tasarla: Farmakoloji ve Moleküler Simülasyon", people: ["Prof. Dr. Metiner Tosun", "Asistan Profesör Elif Barış"], },
+        { title: "Biyotasarım: 3D Organ Atölyesi", people: ["Doktora Sonrası Araştırmacı Hakan Gürbüz"] },
     ];
 
     return (
