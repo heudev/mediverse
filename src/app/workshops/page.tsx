@@ -18,7 +18,7 @@ const Modal: React.FC<ModalProps> = ({ isOpen, onClose, person }) => {
 
     return (
         <div className="fixed inset-0 flex items-center justify-center bg-black bg-opacity-50 z-50">
-           <div  className="bg-white text-black p-6 rounded-lg shadow-lg  max-w-sm md:max-w-lg lg:max-w-2xl w-full max-h-[90vh] overflow-auto relative">
+            <div className="bg-white text-black p-6 rounded-lg shadow-lg  max-w-sm md:max-w-lg lg:max-w-2xl w-full max-h-[90vh] overflow-auto relative">
                 <button
                     onClick={onClose}
                     className="absolute top-2 right-2 text-gray-500 hover:text-red-700 text-4xl"
@@ -72,7 +72,7 @@ export default function Workshops() {
     const personDetailsMap: Record<string, PersonDetails> = {
         "Prof. Dr. İncim Bezircioğlu": {
             name: "Prof. Dr. İncim Bezircioğlu",
-            photoUrl: "/images/workshops/",
+            photoUrl: "/images/workshops/incimbezircioglu.jpeg",
             subtitle: "The Case Files: Diagnosis Edition",
             description: "1964 yılında Ankara'da doğmuştur. 1987 yılında Ege Üniversitesi Tıp Fakültesi'nden tıp doktoru olarak mezun olmuştur. Uzmanlık eğitimini 1992 yılında Sağlık Bakanlığı, Ege Kadın Doğum Hastanesi'nde tamamlamıştır. 2013 yılında Sağlık Bakanlığı, İzmir Katip Çelebi Üniversitesi, İzmir Atatürk Eğitim ve Araştırma Hastanesi, Kadın Hastalıkları ve Doğum Anabilim Dalı'nda doçent unvanını almıştır.",
         },
@@ -109,7 +109,7 @@ export default function Workshops() {
         "Psikolog Dr. Işıl Çoklar Okutkan": {
             name: "Psikolog Dr. Işıl Çoklar Okutkan",
             photoUrl: "/images/workshops/isil_coklar_okutan.jpg",
-            subtitle: "Yapay Zeka ve Giyilebilir Teknolojiler",
+            subtitle: "Çoklu Kronik Hastalığı Olan İleri Yaşlı Bireyler İçin Dijital Sağlık Çözümleri: ProACT Platformu Örneği",
             description: "Sosyal psikoloji alanında uzmanlaşmış bir akademisyen ve araştırmacıdır. Ege Üniversitesi Psikoloji Bölümü’nden 2004 yılında mezun olduktan sonra, aynı üniversitede sosyal psikoloji alanında yüksek lisans yapmıştır. Doktora eğitimini ise 2015 yılında Ankara Üniversitesi’nde tamamlamıştır. Dr. Çoklar Okutkan, akademik kariyeri boyunca pek çok uluslararası deneyim edinmiştir. Şu anda Trinity College Dublin’de SEURO Projesi kapsamında postdoctoral researcher (doktora sonrası araştırmacı) olarak görev yapmaktadır. Aynı üniversitenin Hemşirelik ve Ebelik Fakültesi’nde araştırma görevlisi olarak da bulunmuş, bu alanlarda araştırmalara katkıda bulunmuştur. Akademik ders verme tecrübesini ise hem Dublin Business School hem de Bahçeşehir Üniversitesi gibi kurumlarda lisans ve yüksek lisans düzeyinde dersler vererek zenginleştirmiştir. Dr. Çoklar Okutkan, aynı zamanda Child and Family Training bünyesinde 2013 yılından beri eğitmen ve danışman olarak görev yapmakta, aile ve çocuklara yönelik eğitim ve danışmanlık hizmetleri sağlamaktadır. Çalışma alanları sosyal psikoloji, aile dinamikleri ve çocuk gelişimi gibi konuları kapsamakta, araştırmaları ise genellikle multidisipliner bir yaklaşımla sürdürülmektedir. Bornova Anadolu Lisesi mezunu olan Dr. Çoklar Okutkan, İngilizce ve Almanca bilmektedir.",
         },
         "Gemini Bilgi - Özlem Aksu": {
@@ -152,7 +152,7 @@ export default function Workshops() {
             name: "Araş.Gör.Sude Pehlivan Akbuğday",
             photoUrl: "/images/workshops/",
             subtitle: "Biyomedikal Perspektiften Zihin ve Duyular",
-            description:"2015 yılında Ankara Cumhuriyet Anadolu Öğretmen Lisesi'nden mezun oldu. 2019 yılında İzmir Katip Çelebi Üniversitesi Biyomedikal Mühendisliği bölümünden lisans derecesi aldı. Eylül 2021’de İzmir Ekonomi Üniversitesi’nde Elektrik-Elektronik Mühendisliği bütünleşik doktora eğitimine başladı.",
+            description: "2015 yılında Ankara Cumhuriyet Anadolu Öğretmen Lisesi'nden mezun oldu. 2019 yılında İzmir Katip Çelebi Üniversitesi Biyomedikal Mühendisliği bölümünden lisans derecesi aldı. Eylül 2021’de İzmir Ekonomi Üniversitesi’nde Elektrik-Elektronik Mühendisliği bütünleşik doktora eğitimine başladı.",
         },
         "Araş.Gör.Burak Akbuğday": {
             name: "Araş.Gör.Burak Akbuğday",
@@ -169,7 +169,7 @@ export default function Workshops() {
         "Dr. Öğr. Üyesi Ali Burak Özkaya": {
             name: "Dr. Öğr. Üyesi Ali Burak Özkaya",
             photoUrl: "/images/workshops/ali_burak_ozkaya.jpg",
-            subtitle: "Argüman Analizi",
+            subtitle: "Deneysel Analizi",
             description: "Ege Üniversitesi'nde Biyokimya alanında lisans (2002-2006) ve yüksek lisans (2006-2009) eğitimini tamamladıktan sonra, 2010-2015 yılları arasında Ege Üniversitesi Biyokimya Anabilim Dalı'nda Biyokimya alanında doktora yaptı. Eğitim sürecinde pre-klinik çalışmalar, proje yönetimi ve eğitim konularında deneyim kazandı. Profesyonel kariyerine 2015'te Dokuz Eylül Üniversitesi'nde öğretim görevlisi olarak başlamış ve 2017'de İzmir Ekonomi Üniversitesi'nde yardımcı doçent olarak göreve devam etmiştir. Burada, biyokimya ve eleştirel düşünme dersleri vermekte, e-öğrenme platformunun yönetimiyle ilgilenmektedir. Ayrıca, fakültenin araştırma ekibinin bir üyesidir. FEBS (Federation of European Biochemical Societies) ağında Networking ve Entegrasyon Komitesi üyeliği görevini yürütmektedir. Özkaya, çeşitli araştırma projelerinde de yer almış, TUBİTAK destekli projelerde çalışmış ve uluslararası araştırma deneyimi kazanmıştır. Bunlar arasında, MD Anderson Kanser Merkezi'nde, Almanya Ulm Üniversitesi'nde ve Onvivo Diagnostik ve Biyoteknoloji'de gerçekleştirdiği çalışmaları sayılabilir.",
         },
         /* 
@@ -198,22 +198,21 @@ export default function Workshops() {
     const saturdayEvents = [
         { title: "The Case Files: Diagnosis Edition", people: ["Prof. Dr. İncim Bezircioğlu", "Prof. Dr. Oğuz Kılınç"] },
         { title: "Sütür Atma Atölyesi", people: ["Op. Dr. Barış Zamandar"] },
-        { title: "Yeni Sağlık Hizmetleri ve Cinsiyet Kavramı", people: [] },
-        { title: "Argüman Analizi", people: ["Dr. Öğr. Üyesi Ali Burak Özkaya"] },
+        { title: "Deneysel Analiz", people: ["Dr. Öğr. Üyesi Ali Burak Özkaya"] },
         { title: "Da Vinci Uygulama Atölyesi", people: ["CordaMed - Okan Ünsal"] },
         { title: "Tanı Dedektifleri: Patolojinin Gizemi", people: ["Dr. Öğr. Üyesi Özge Ertener"] },
         { title: "Tıpta Girişimcilik: Yapay Zeka", people: ["Doğa Özdengülsün"] },
         { title: "Tıp Eğitiminde Yeni Yöntemler", people: ["Gemini Bilgi - Özlem Aksu"] },
-        { title: "Yapay Zeka ve Giyilebilir Teknolojiler", people: ["Psikolog Dr. Işıl Çoklar Okutkan"] },
+        { title: "Çoklu Kronik Hastalığı Olan İleri Yaşlı Bireyler İçin Dijital Sağlık Çözümleri: ProACT Platformu Örneği", people: ["Psikolog Dr. Işıl Çoklar Okutkan"] },
         { title: "Akan Hücre Ölçerin Geleceği", people: ["Asistan Profesör Alper Togay"] },
-        { title: "Yeni Sağlık Hizmetleri ve Cinsiyet Kavramı", people: ["İzmir Kadın Dayanışma Derneği-Reyhan Gümüşkaya","Uzm.Psikolog Ezgi Bayırlı"] },
+        { title: "Yeni Sağlık Hizmetleri ve Cinsiyet Kavramı", people: ["İzmir Kadın Dayanışma Derneği-Reyhan Gümüşkaya", "Uzm.Psikolog Ezgi Bayırlı"] },
         { title: "Farkındalık", people: ["Prof. Dr. Gönül Dinç Horasan", "Hande Aşıcı"] },
     ];
 
     const sundayEvents = [
         { title: "Teletıp", people: ["Prof. Dr. Görsel Altınışık Ergür"] },
         { title: "Sağlıkta Üreten Tıp", people: ["Kutsal Ozkurt"] },
-        { title: "Biyomedikal Perspektiften Zihin ve Duyular",people: ["Araş.Gör.Sude Pehlivan Akbuğday", "Araş.Gör.Burak Akbuğday"], },
+        { title: "Biyomedikal Perspektiften Zihin ve Duyular", people: ["Araş.Gör.Sude Pehlivan Akbuğday", "Araş.Gör.Burak Akbuğday"], },
         { title: "Glukometre Probu", people: ["Dr. Yalın Kılıç"] },
         { title: "Farkındalık ve Gönüllülük Çalışmaları", people: ["Genç İzmir"] },
         { title: "Dijital Kirlilik ve Sağlık", people: ["Lets Do It - Elif Merve Can"] },

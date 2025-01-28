@@ -81,7 +81,11 @@ const sponsors = [
         imageSrc: "/images/sponsors/gemini.jpeg",
         category: "Maddi Sponsoru",
     },
-
+    {
+        name: "USMLE & MATCH",
+        imageSrc: "/images/sponsors/usmle.png",
+        category: "Çekiliş Sponsoru",
+    }
 ];
 
 export default function Sponsors() {
